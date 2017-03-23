@@ -1,8 +1,8 @@
 /******************************************************************************
- * AUTHOR1	  : Steven Adinolfi
- * AUTHOR2	  : Stanley Ferguson
- * STUDENT1 ID: 382266
- * STUDENT2 ID: 1052330
+ * AUTHOR1	  : 
+ * AUTHOR2	  : 
+ * STUDENT1 ID	  : 
+ * STUDENT2 ID	  : 
  * LAB #10	  : Intro to Programming
  * CLASS	  : CS1A
  * SECTION	  : MW: 8am
@@ -40,29 +40,29 @@ int main()
 	 * LAB_NUM	   : Lab Number (specific to this lab)
 	 * LAB_NAME	   : Title of the Lab
 	 *************************************************************************/
-	const char PROGRAMMER1[] = "Steven Adinolfi";
-	const char PROGRAMMER2[] = "Stanley Ferguson";
-	const char CLASS[]		 = "CS1A";
+	const char PROGRAMMER1[] = " ";
+	const char PROGRAMMER2[] = " ";
+	const char CLASS[]	 = "CS1A";
 	const char SECTION[]	 = "MW: 8:00a - 11:50a";
-	const int  LAB_NUM		 = 10;
+	const int  LAB_NUM	 = 10;
 	const char LAB_NAME[]	 = "Intro to Programming";
 	cout << endl;
 
 	//variable declarations
-	int	firstNum; 	//	IN. CALC & OUT - first value to sum
-	int	secondNum;  //	IN. CALC & OUT - second value to sum
-	int sum; 		//	CALC & OUT	   - sum of 2 integers input
-	float average;  //	CALC & OUT	   - average of 2 integers input
+	int   firstNum;   //	IN. CALC & OUT - first value to sum
+	int   secondNum;  //	IN. CALC & OUT - second value to sum
+	int   sum; 	  //	CALC & OUT     - sum of 2 integers input
+	float average;    //	CALC & OUT     - average of 2 integers input
 
 	// OUTPUT - Class Heading
 	cout << left;
-	cout << "**************************************************\n";
+	cout << "**********************************************************\n";
 	cout << "*  PROGRAMMED BY : "  << PROGRAMMER1 << endl;
 	cout << "*  PROGRAMMED BY : "  << PROGRAMMER2 << endl;
-	cout << "*  "	   << setw(14) << "CLASS"	  << ": " << CLASS    << endl;
+	cout << "*  "	   << setw(14) << "CLASS"     << ": " << CLASS    << endl;
 	cout << "*  "	   << setw(14) << "SECTION"   << ": " << SECTION  << endl;
-	cout << "*  LAB #" << setw(9)  << LAB_NUM	  << ": " << LAB_NAME << endl;
-	cout << "**************************************************\n\n";
+	cout << "*  LAB #" << setw(9)  << LAB_NUM     << ": " << LAB_NAME << endl;
+	cout << "**********************************************************\n\n";
 	cout << right;
 
 	/**************************************************************************
