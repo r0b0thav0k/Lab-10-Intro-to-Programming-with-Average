@@ -1,6 +1,6 @@
 **************************************************
-*  PROGRAMMED BY : Steven Adinolfi
-*  PROGRAMMED BY : Stanley Ferguson
+*  PROGRAMMED BY : 
+*  PROGRAMMED BY : 
 *  CLASS         : CS1A
 *  SECTION       : MW: 8:00a - 11:50a
 *  LAB #10       : Intro to Programming
