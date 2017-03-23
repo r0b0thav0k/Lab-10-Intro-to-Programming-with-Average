@@ -1,0 +1,6 @@
+**************************************************
+*  PROGRAMMED BY : Stanley Ferguson
+*  CLASS         : CS1A
+*  SECTION       : MW: 8:00a - 11:50a
+*  LAB #9        : Eclipse Tutorial
+**************************************************
